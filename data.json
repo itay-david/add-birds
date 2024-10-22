@@ -1,0 +1,16 @@
+{
+  "parrots": {
+    "parrot_001": {
+      "name": "Polly",
+      "owner": "John Doe",
+      "address": "123 Parrot Lane",
+      "phone": "123-456-7890"
+    },
+    "parrot_002": {
+      "name": "Coco",
+      "owner": "Jane Smith",
+      "address": "456 Bird Road",
+      "phone": "987-654-3210"
+    }
+  }
+}
